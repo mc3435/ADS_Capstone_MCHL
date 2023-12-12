@@ -1,6 +1,17 @@
 # ADS Capstone - Fall 2024
 Fall 2023 Capstone Project 
 
+## Table of Contents
+  * [Team Members](#team-members)
+  * [Abstract](#abstract)
+  * [Visual Abstract](#visual-abstract)
+  * [Background](#background)
+  * [Problem Statement](#problem-statement)
+  * [Data Source](#data-source)
+  * [Model Evaluations](#model-evaluations)
+  * [Conclusion](#conclusion)
+  * [References](#references)
+    
 ## Team Members
 - Mackenzie Carter [@mc3435](https://github.com/mc3435)
   
